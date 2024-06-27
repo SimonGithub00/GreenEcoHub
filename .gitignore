@@ -10,3 +10,4 @@ backend/vars/.env
 backend/vars/.env.prod
 frontend/.env
 .idea  
+#
