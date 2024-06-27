@@ -1,4 +1,13 @@
-![GreenEcoHub_Logo](https://github.com/SimonGithub00/GreenEcoHub/assets/122214353/d7a33e8b-edb1-4ca9-8d60-f6f4627d0579)
+<p align="center">
+  <img src="https://github.com/SimonGithub00/GreenEcoHub/assets/122214353/d7a33e8b-edb1-4ca9-8d60-f6f4627d0579" alt="GreenEcoHub Logo" width="200">
+</p>
+
+# **GreenEcoHub**
+
+Welcome to GreenEcoHub, your premier source for sustainable living and eco-friendly solutions. Here, we aim to empower communities by providing innovative tools and insightful resources to promote a greener future.
+
+## 
+
 
 # **GreenEcoHub**
 
