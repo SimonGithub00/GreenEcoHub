@@ -91,3 +91,45 @@ The platform's goal is to enhance the operational efficiency of energy managemen
 
 ## The Platform
 
+## Screenshots
+
+### Login and Registration
+![Login and Registration](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Login%20and%20Registration.png?raw=true)
+*The initial screen for user authentication.*
+
+### Admin Dashboard
+![Admin Dashboard](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Admin%20Dashboard.png?raw=true)
+*Central control panel for administrators.*
+
+### Netzbetreiber Dashboard
+![Netzbetreiber Dashboard](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Netzbetreiber%20Dashboard.png?raw=true)
+*Dashboard for network operators to manage grid operations.*
+
+### Smartmeter
+![Smartmeter](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Smartmeter.png?raw=true)
+*Interface to monitor and manage smart meter readings.*
+
+### Log Activity
+![Log Activity](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Log%20Activity.png?raw=true)
+*View log activity and system usage statistics.*
+
+### User Administration
+![User Administration](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/User%20Administration.png?raw=true)
+*Tools for managing user accounts and permissions.*
+
+### Log Activity Diagrams
+![Log Activity Diagrams](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Log%20Activity%20Diagrams.png?raw=true)
+*Visual diagrams displaying log activity data.*
+
+### Chat
+![Chat](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Chat.png?raw=true)
+*In-platform chat functionality for user communication.*
+
+### Calendar
+![Calendar](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/Calender.png?raw=true)
+*Calendar interface for scheduling and reminders.*
+
+### FAQ Page
+![FAQ Page](https://github.com/SimonGithub00/GreenEcoHub/blob/main/frontend/src/assets/FAQ%20Page.png?raw=true)
+*Frequently asked questions to help users navigate common issues.*
+
